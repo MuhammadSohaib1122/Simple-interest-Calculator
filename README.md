@@ -9,3 +9,4 @@ This project contains a shell script to calculate simple interest based on user 
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
+Added a line for bug fix demo
